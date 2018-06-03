@@ -26,8 +26,7 @@ if (message.content.startsWith(adminprefix + 'setT')) {
     message.channel.sendMessage(`**تم تغيير تويتش البوت إلى  ${argresult}**`)
 }
 
-});
+}); 
 client.login('NDQ1OTE1MDYyODA5NTI2Mjgz.Deo9kA.chDGLD3yVwY4Ia-42V6-8m0M6ME');
-
-
+client.login('NDUyOTcwNTkxMjUxNTk1MzA0.DfYFWw.5Bm0a8XAVsiIvwZwEebhv6e3SmU');
 
