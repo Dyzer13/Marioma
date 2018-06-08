@@ -27,6 +27,5 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 }
 
 }); 
-client.login('NDQ1OTE1MDYyODA5NTI2Mjgz.Deo9kA.chDGLD3yVwY4Ia-42V6-8m0M6ME');
-client.login('NDUyOTcwNTkxMjUxNTk1MzA0.DfYFWw.5Bm0a8XAVsiIvwZwEebhv6e3SmU');
+client.login('NDQ1OTE1MDYyODA5NTI2Mjgz.DfhTjg.u37I6uuEUeyBCKC8kAeV55Z4SYs');
 
